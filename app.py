@@ -4,7 +4,7 @@ from langchain_openai import OpenAI
 
 # Application Header
 st.set_page_config(page_title='QA Application', page_icon=":robot_face:")
-st.header(body='Question Answering Application using LLM')
+st.header(body='Question Answering Application using OpenAI GPT-3.5')
 
 
 # Get Question Func
